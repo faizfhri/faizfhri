@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Faiz 👋
+
+A computer science student that is learning software development.
+
+## Github Statistics
+<p align="left">
+<a href="https://github.com/faizfhri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizfhri&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-nu-ivory-64.vercel.app/api/top-langs/?username=faizfhri&layout=compact&theme=gotham"/>
+</a>
+</p>
 
 <!--
 **faizfhri/faizfhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
